@@ -1,0 +1,7 @@
+C:\Users\henry\source\repos\shapeCalculator\shapeCalculator\bin\Debug\shapeCalculator.exe.config
+C:\Users\henry\source\repos\shapeCalculator\shapeCalculator\bin\Debug\shapeCalculator.exe
+C:\Users\henry\source\repos\shapeCalculator\shapeCalculator\bin\Debug\shapeCalculator.pdb
+C:\Users\henry\source\repos\shapeCalculator\shapeCalculator\obj\Debug\shapeCalculator.csproj.AssemblyReference.cache
+C:\Users\henry\source\repos\shapeCalculator\shapeCalculator\obj\Debug\shapeCalculator.csproj.CoreCompileInputs.cache
+C:\Users\henry\source\repos\shapeCalculator\shapeCalculator\obj\Debug\shapeCalculator.exe
+C:\Users\henry\source\repos\shapeCalculator\shapeCalculator\obj\Debug\shapeCalculator.pdb
